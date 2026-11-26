@@ -1,0 +1,17 @@
+@import url("./reset.css");
+@import url("./fonts.css");
+@import url("./layout.css");
+
+/* Общие параметры из Figma. */
+:root {
+  color-scheme: light;
+  --background: #f4f4f5;
+  --surface: #fafafa;
+  --text: #09090b;
+  --muted: #3f3f46;
+  --border: #d4d4d8;
+  --blue: #0077ff;
+  --footer: #27272a;
+  font-family: Geist, sans-serif;
+  font-synthesis: none;
+}

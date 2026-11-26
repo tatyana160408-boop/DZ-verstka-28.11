@@ -1,0 +1,6 @@
+/* Базовый сброс стилей браузера. */
+* { box-sizing: border-box; }
+button { font: inherit; cursor: pointer; }
+button, summary { -webkit-tap-highlight-color: transparent; }
+h1, h2, p { margin: 0; }
+body { margin: 0; }
